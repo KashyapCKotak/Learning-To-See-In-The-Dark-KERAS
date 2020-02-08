@@ -5,3 +5,4 @@ The original model was recreated it KERAS and was retrined with the dataset prov
 
 Some of the results obtained are as below:
 
+![Sample Results](See_In_Dark_Keras_Results.png)
